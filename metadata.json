@@ -1,0 +1,15 @@
+{
+    "name": "Volume Over-Amplification Toggle",
+    "description": "Adds a toggle in the volume menu to enable/disable sound over-amplification",
+    "uuid": "volume-over-amplification@HardikSLathiya",
+    "shell-version": [
+        "3.34",
+        "3.36",
+        "3.38",
+        "40",
+        "41",
+        "42"
+    ],
+    "url": "https://github.com/HardikSLathiya/volume-over-amplification",
+    "version": 1
+}
